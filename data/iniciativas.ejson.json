@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "INI-001", "dataset": "S02_UE_V1", "responsable_id": "EMP-999",
+    "nombre": "EcoEmpaque", "sector": "economia_circular", "etapa": "validacion", "estado": "activa",
+    "perfil": { "propuesta_valor": "Empaques reutilizables para comercios", "atributos": { "material": "fibra vegetal", "canal": "b2b" } }
+  },
+  {
+    "_id": "INI-002", "dataset": "S02_UE_V1", "responsable_id": "EMP-002",
+    "nombre": "Sabores Locales", "sector": "alimentos", "etapa": "escalamiento", "estado": "activa",
+    "perfil": { "propuesta_valor": "Platos artesanales con ingredientes locales", "atributos": { "registro_sanitario": true, "tipo": "artesanal" } }
+  },
+  {
+    "_id": "INI-003", "dataset": "S02_UE_V1", "responsable_id": "EMP-003",
+    "nombre": "Turno Ágil", "sector": "software", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Software de agendamiento de citas", "atributos": { "plataforma": "saas", "stack": "python" } }
+  },
+  {
+    "_id": "INI-004", "dataset": "S02_UE_V1", "responsable_id": "EMP-004",
+    "nombre": "BioHuerto", "sector": "agrotech", "etapa": "validacion", "estado": "activa",
+    "perfil": { "propuesta_valor": "Sistemas de riego inteligente para fincas", "atributos": { "tecnologia": "iot" } }
+  },
+  {
+    "_id": "INI-005", "dataset": "S02_UE_V1", "responsable_id": "EMP-005",
+    "nombre": "Moda Sostenible", "sector": "textil", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Ropa con telas recicladas", "atributos": { "material": "algodon reciclado" } }
+  },
+  {
+    "_id": "INI-006", "dataset": "S02_UE_V1", "responsable_id": "EMP-006",
+    "nombre": "LogiRuta", "sector": "logistica", "etapa": "validacion", "estado": "activa",
+    "perfil": { "propuesta_valor": "Optimización de entregas de última milla", "atributos": { "cobertura": "urbana" } }
+  },
+  {
+    "_id": "INI-007", "dataset": "S02_UE_V1", "responsable_id": "EMP-007",
+    "nombre": "EduTech SENA", "sector": "educacion", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Plataforma de cursos interactivos", "atributos": { "modalidad": "online" } }
+  },
+  {
+    "_id": "INI-008", "dataset": "S02_UE_V1", "responsable_id": "EMP-008",
+    "nombre": "Café Origen", "sector": "alimentos", "etapa": "escalamiento", "estado": "activa",
+    "perfil": { "propuesta_valor": "Café especial procesado en origen", "atributos": { "certificacion": "organico" } }
+  },
+  {
+    "_id": "INI-009", "dataset": "S02_UE_V1", "responsable_id": "EMP-009",
+    "nombre": "HealthApp", "sector": "salud", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Monitoreo de hábitos saludables", "atributos": { "dispositivo": "movil" } }
+  },
+  {
+    "_id": "INI-010", "dataset": "S02_UE_V1", "responsable_id": "EMP-001",
+    "nombre": "ReciclaYa", "sector": "economia_circular", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Recolección de residuos aprovechables", "atributos": { "servicio": "domiciliario" } }
+  },
+  {
+    "_id": "INI-011", "dataset": "S02_UE_V1", "responsable_id": "EMP-002",
+    "nombre": "Snacks Nutritivos", "sector": "alimentos", "etapa": "validacion", "estado": "activa",
+    "perfil": { "propuesta_valor": "Pasabocas saludables sin azúcar añadido", "atributos": { "empaque": "biodegradable" } }
+  },
+  {
+    "_id": "INI-012", "dataset": "S02_UE_V1", "responsable_id": "EMP-003",
+    "nombre": "FinanzApp", "sector": "fintech", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Control financiero para microempresas", "atributos": { "tipo": "web" } }
+  },
+  {
+    "_id": "INI-013", "dataset": "S02_UE_V1", "responsable_id": "EMP-004",
+    "nombre": "EnergíaLimpia", "sector": "energia", "etapa": "idea", "estado": "activa",
+    "perfil": { "propuesta_valor": "Instalación de paneles solares rurales", "atributos": { "capacidad": "residencial" } }
+  },
+  {
+    "_id": "INI-014", "dataset": "S02_UE_V1", "responsable_id": "EMP-005",
+    "nombre": "CalzadoEco", "sector": "textil", "etapa": "validacion", "estado": "activa",
+    "perfil": { "propuesta_valor": "Zapatos hechos con caucho reciclado", "atributos": { "linea": "urbana" } }
+  },
+  {
+    "_id": "INI-015", "dataset": "S02_UE_V1", "responsable_id": "EMP-010",
+    "nombre": "ProyectaAntiguo", "sector": "servicios", "etapa": "idea", "estado": "archivada",
+    "perfil": { "propuesta_valor": "Asesoría empresarial tradicional", "atributos": { "servicio": "presencial" } }
+  }
+]

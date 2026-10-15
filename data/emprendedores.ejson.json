@@ -1,0 +1,12 @@
+[
+  { "_id": "EMP-001", "dataset": "S02_UE_V1", "alias": "Ana María López", "estado": "activo" },
+  { "_id": "EMP-002", "dataset": "S02_UE_V1", "alias": "Carlos Eduardo Ruiz", "estado": "activo" },
+  { "_id": "EMP-003", "dataset": "S02_UE_V1", "alias": "María Fernanda Gómez", "estado": "activo" },
+  { "_id": "EMP-004", "dataset": "S02_UE_V1", "alias": "Luis Fernando Martínez", "estado": "activo" },
+  { "_id": "EMP-005", "dataset": "S02_UE_V1", "alias": "Sofía Ramírez", "estado": "activo" },
+  { "_id": "EMP-006", "dataset": "S02_UE_V1", "alias": "Diego Alejandro Torres", "estado": "activo" },
+  { "_id": "EMP-007", "dataset": "S02_UE_V1", "alias": "Laura Camila Morales", "estado": "activo" },
+  { "_id": "EMP-008", "dataset": "S02_UE_V1", "alias": "Juan Pablo Castro", "estado": "activo" },
+  { "_id": "EMP-009", "dataset": "S02_UE_V1", "alias": "Valentina Ospina", "estado": "activo" },
+  { "_id": "EMP-010", "dataset": "S02_UE_V1", "alias": "Andrés Felipe Jaramillo", "estado": "inactivo" }
+]
