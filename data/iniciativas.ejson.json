@@ -1,6 +1,6 @@
 [
   {
-    "_id": "INI-001", "dataset": "S02_UE_V1", "responsable_id": "EMP-999",
+    "_id": "INI-001", "dataset": "S02_UE_V1", "responsable_id": "EMP-001",
     "nombre": "EcoEmpaque", "sector": "economia_circular", "etapa": "validacion", "estado": "activa",
     "perfil": { "propuesta_valor": "Empaques reutilizables para comercios", "atributos": { "material": "fibra vegetal", "canal": "b2b" } }
   },
